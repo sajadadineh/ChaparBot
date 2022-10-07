@@ -8,8 +8,8 @@ this is the personal assistant discord bot
 
 1.Clone the project
 
-2.install packages using `yarn` or `npm i .`
+2.Install packages using `yarn` or `npm i .`
 
-3.paste your values in `config.example.js` and remove the .example. in the file name
+3.Paste your values in `config.example.js` and remove the .example. in the file name
 
 4.Run by `yarn dev`
